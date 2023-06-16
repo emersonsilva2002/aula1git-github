@@ -1,50 +1,55 @@
-# aula1git-github
-este repositório é para fins de estudo do módulo 1 Git e Github
--para criar pasta:
-(mkdir nome-da-pasta) 
-
--para acessar pasta:
-( cd nome-da-pasta)
+# aula1 git-github   
+![image](https://github.com/emersonsilva2002/aula1git-github/assets/136396239/27d623f8-f247-4caf-bb01-a48cf0317c1e)
 
 
--para sair de uma pasta:
-( cd ..)
+
+**este repositório é para fins de estudo do módulo 1 Git e Github**
+
+**-para criar pasta:**
+``(mkdir nome-da-pasta)``
 
 
-- para iniciar repositório:
-git init
+**-para acessar pasta:**
+``( cd nome-da-pasta)``
 
 
--listar arquivos e pastas 
-(ls)
+**-para sair de uma pasta:**
+``( cd ..)``
 
 
--para criar arquivos 
-(echo "#nome-da-pasta" >> arquivo.extensão)
+**- para iniciar repositório:**
+``(git init)``
 
 
-- para adicionar conteúdo (arquivos/ pastas)
-( git add nome-do-arquivo-pasta
+**-listar arquivos e pastas:**
+``(ls)``
 
 
--para adicionar todos os arquivos/ pastas
-( git add .)
+**-para criar arquivos:** 
+``(echo "#nome-da-pasta" >> arquivo.extensão)``
 
 
--para desfazer um add específico 
-( git reset nome-do-arquivo)
+**- para adicionar conteúdo (arquivos/ pastas):**
+``( git add nome-do-arquivo-pasta)``
 
 
--para desfazer um add regal 
-( git reset)
+**-para adicionar todos os arquivos/ pastas:**
+``( git add .)``
 
 
--para registrar o comentario (comi)
-( git commit -m "comentario aqui"
+**-para desfazer um add específico:**
+``( git reset nome-do-arquivo)``
 
 
-- retorna ao ultimo commit, mantendo as alterações feitas nos arquivos)
-( git reset --hard head~1)
+**-para desfazer um add regal:** 
+``( git reset)``
 
 
-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
+**-para registrar o comentario (comi):**
+``( git commit -m "comentario aqui")``
+
+
+**- retorna ao ultimo commit, mantendo as alterações feitas nos arquivos):**
+``( git reset --hard head~1)``
+
+
